@@ -17,7 +17,7 @@ There are three main components to this project
 
  There are only two things we need to configure. The first being the name, locatoin, resource group, etc.
 
- <img src ="https://i.imgur.com/tyzLYFI.png" >
+ <img src ="https://i.imgur.com/tyzLYFI.png" height="80%" width="80%"  >
 
  The other one is the under the network tab where we will use an advanced security group. We will then create a new security group and then edit it.
 
